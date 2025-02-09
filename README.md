@@ -76,10 +76,11 @@ The **Candidate Elimination** algorithm finds both the most specific (`S`) and m
 - Python 3.x
 - Required libraries: `numpy`, `pandas`
 
+## 🚀 How to Use
 ### Clone the Repository
 ```bash
-$ git clone https://github.com/your-repo-name.git
-$ cd your-repo-name
+$ git clone https://github.com/satish-tec/machine-learning-algorithms.git
+$ cd machine-learning-algorithms
 ```
 
 ### Running the Algorithms
@@ -103,17 +104,11 @@ Rainy, Cold, High, Strong, Warm, Change, No
 
 ---
 
-### How to Use
-
-Clone the repository:
-
-git clone https://github.com/satish-tec/machine-learning-algorithms.git cd machine-learning-algorithms
-
 ### 📚References
 
 Tom M. Mitchell, Machine Learning, McGraw Hill, 1997.
 
-## Contributing
+## 🎯Contributing
 Feel free to fork and submit pull requests. Contributions are welcome!
 
 ## 📝License
